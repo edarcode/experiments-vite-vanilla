@@ -1,1 +1,1 @@
-# experiments-vite-vanilla
+# template-vite-vanilla
